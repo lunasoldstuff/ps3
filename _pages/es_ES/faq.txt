@@ -1,24 +1,28 @@
 ---
-title: "Preguntas Frecuentes"
+title: "FAQ"
 ---
 
-<a name="faq_latestfw" />**P:** *Estoy en la última versión de sistema, ¿mi consola es hackeable?*
+WIP
+
+<!--
+<a name="faq_latestfw" />**Q:** *I am on the latest system version, is my device hackable?*
 **A:** Yes, 3.73 is hackable at the moment.
 
-<a name="faq_downgrade" />**Q:** *¿Puedo hacer downgrade a mi Vita?*
+<a name="faq_downgrade" />**Q:** *Can I downgrade my Vita?*
 **A:** Yes, the tool Modoru can downgrade any system hacked with HENkaku or h-encore to any firmware equal or greater than the firmware the console came with out of the box.
 
-<a name="faq_update" />**Q:** *¿Es seguro actualizar una Vita con CFW?*
-**A:** ¡No! Siempre debes asegurarte que has bloqueado las actualizaciones tal como se especifica al final de [Finalizar instalación](finalizing-setup).
+<a name="faq_update" />**Q:** *Is it safe to update a Vita with CFW?*
+**A:** No! You must always ensure that you have blocked updates as specified at the end of [Finalizing Setup](finalizing-setup).
 
-<a name="faq_risky" />**P:** *¿Qué tan arriesgado es hackear mi consola?*
-**A:** Que un brick ocurra es *básicamente* imposible a menos que ignores instrucciones.
+<a name="faq_risky" />**Q:** *How risky is hacking my console?*
+**A:** Bricks are *basically* impossible unless you ignore instructions.
 
-<a name="faq_homebrew" />**P:** *¿Puedo ejecutar homebrews y emuladores con esto?*
-**R:** ¡Sí! Esto posibilita que cualquier homebrew creado por usuarios pueda ser ejecutado en tu consola.
+<a name="faq_homebrew" />**Q:** *Can I run awesome homebrew and emulators with this?*
+**A:** Yes! This enables any custom user-made homebrew to be played on your device.
 
-<a name="faq_support" />**P:** *¿A dónde debería ir para pedir ayuda?*
-**A:** Para soporte, puedes pedir ayuda (*en inglés*) en [Vita Hacking en Discord](https://discord.gg/JXEKeg6).
+<a name="faq_support" />**Q:** *Where should I go for support?*
+**A:** For support, ask for help at [Vita Hacking on Discord](https://discord.gg/JXEKeg6).
 
-<a name="faq_nopc" />**P:** *¿Puedo realizar este proceso sin una computadora?*
-**A:** No. Debes de tener una computadora para completar esta guía.
+<a name="faq_nopc" />**Q:** *Can I do this without a computer?*
+**A:** No, you must have a PC to complete this guide.
+-->
