@@ -2,22 +2,22 @@
 main:
   -
     title: Home
-    url: //stampylongr.github.io/Guide_PS3
+    url: //stampylongr.github.io/ps3
   -
     title: FAQ
-    url: //stampylongr.github.io/Guide_PS3/faq
+    url: //stampylongr.github.io/ps3/faq
   -
     title: Donations
-    url: //stampylongr.github.io/Guide_PS3/donations
+    url: //stampylongr.github.io/ps3/donations
   -
     title: Credits
-    url: //stampylongr.github.io/Guide_PS3/credits
+    url: //stampylongr.github.io/ps3/credits
   -
     title: Troubleshooting
-    url: //stampylongr.github.io/Guide_PS3/troubleshooting
+    url: //stampylongr.github.io/ps3/troubleshooting
   -
     title: Site Navigation
-    url: //stampylongr.github.io/Guide_PS3/site-navigation
+    url: //stampylongr.github.io/ps3/site-navigation
 top:
   -
     title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
@@ -39,4 +39,4 @@ sidebar_title:
 sidebar_pages:
   -
     title: Home
-    url: //stampylongr.github.io/Guide_PS3
+    url: //stampylongr.github.io/ps3
