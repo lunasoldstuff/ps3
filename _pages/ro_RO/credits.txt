@@ -1,11 +1,15 @@
 ---
-title: "Contribuții"
+title: "Credits"
 ---
 
-**Mulțumiri speciale tuturor [traducătorilor](https://crowdin.com/project/vita-guide) pentru că sunt minunați!**
+WIP
+
+<!--
+
+**Special thanks to all of [the translators](https://crowdin.com/project/vita-guide) for being awesome!**
 {: .notice--primary}
 
-Dacă te-am uitat, contactează-ne și îți vom adăuga numele.
+If we forgot you here, contact us and we'll add your name.
 
 {% capture notice-1 %}
 
@@ -22,3 +26,5 @@ Dacă te-am uitat, contactează-ne și îți vom adăuga numele.
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+-->
