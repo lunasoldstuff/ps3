@@ -1,0 +1,11 @@
+---
+title: "Troubleshooting"
+---
+
+{% include toc title="Table of Contents" %}
+
+### Required Reading
+
+If you encounter issues, please look for the section relevant to you and follow the instructions.
+
+If you still cannot solve your issue and need to reach out for help, please come for help prepared with a detailed description of your problem and what you've tried.
