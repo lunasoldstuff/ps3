@@ -1,13 +1,13 @@
 ---
 layout: splash
-title: "PS Vita (TV) Hacks Guide" #
+title: "PS3 Hacks Guide" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
 
-excerpt: "A complete guide to PS Vita (TV) custom firmware, <br /> from stock to Ensō.<br />"
+excerpt: "A complete guide to PS3 custom firmware, <br /> from stock to CFW.<br />"
 ---
 
 For complete guides to homebrew and custom firmware for other devices, check out [Hacks.Guide](https://hacks.guide).
@@ -15,6 +15,9 @@ For complete guides to homebrew and custom firmware for other devices, check out
 
 ___
 
+WIP
+
+<!--
 Thoroughly read all of the introductory pages (including this one!) before proceeding.
 {: .notice--warning}
 
@@ -72,3 +75,4 @@ ___
 
 ### Continue to [Get Started](get-started)
 {: .notice--primary}
+-->
