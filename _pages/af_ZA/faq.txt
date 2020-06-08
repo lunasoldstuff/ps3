@@ -2,6 +2,9 @@
 title: "FAQ"
 ---
 
+WIP
+
+<!--
 <a name="faq_latestfw" />**Q:** *I am on the latest system version, is my device hackable?*
 **A:** Yes, 3.73 is hackable at the moment.
 
@@ -22,3 +25,4 @@ title: "FAQ"
 
 <a name="faq_nopc" />**Q:** *Can I do this without a computer?*
 **A:** No, you must have a PC to complete this guide.
+-->
