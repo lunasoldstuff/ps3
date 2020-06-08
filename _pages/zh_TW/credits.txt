@@ -1,11 +1,15 @@
 ---
-title: "製作群"
+title: "Credits"
 ---
 
-**感謝所有的超讚的[翻譯人員](https://crowdin.com/project/vita-guide)！**
+WIP
+
+<!--
+
+**Special thanks to all of [the translators](https://crowdin.com/project/vita-guide) for being awesome!**
 {: .notice--primary}
 
-如果我們忘記把您加進來的話，請與我們聯繫。
+If we forgot you here, contact us and we'll add your name.
 
 {% capture notice-1 %}
 
@@ -22,3 +26,5 @@ title: "製作群"
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+-->
