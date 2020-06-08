@@ -2,22 +2,22 @@
 main:
   - 
     title: Acasă
-    url: /
+    url: //stampylongr.github.io/ps3
   - 
     title: Întrebări frecvente
-    url: faq
+    url: //stampylongr.github.io/ps3/faq
   - 
     title: Donații
-    url: donations
+    url: //stampylongr.github.io/ps3/donations
   - 
     title: Contribuţii
-    url: credits
+    url: //stampylongr.github.io/ps3/credits
   - 
     title: Depanare
-    url: troubleshooting
+    url: //stampylongr.github.io/ps3/troubleshooting
   - 
     title: Adrenaline
-    url: adrenaline
+    url: //stampylongr.github.io/ps3/site-navigation
 top:
   - 
     title: Acest website folosește cookie-uri pentru a afișa progresul actual al ghidului pe bara laterală și astfel îmbunătăți site-ul prin alte mijloace.
@@ -39,4 +39,4 @@ sidebar_title:
 sidebar_pages:
   - 
     title: Acasă
-    url: /
+    url: //stampylongr.github.io/ps3
