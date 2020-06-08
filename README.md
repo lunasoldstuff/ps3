@@ -1,2 +1,2 @@
-# PS3 Hacks Guide [![Depfu](https://badges.depfu.com/badges/24508e7e491e0ed3e02e27f36037839e/overview.svg)](https://depfu.com/github/stampylongr/ps3?project_id=13631)
+# PS3 Hacks Guide [![Depfu](https://badges.depfu.com/badges/24508e7e491e0ed3e02e27f36037839e/overview.svg)](https://depfu.com/github/stampylongr/ps3?project_id=13631) [![Crowdin](https://badges.crowdin.net/guideps3/localized.svg)](https://crowdin.com/project/guideps3)
 PS3 Hacking Guide
