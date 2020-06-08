@@ -1,9 +1,9 @@
 ---
-titre: "Page Introuvable" #
+title: "Page Not Found" #
 layout: single-no-ads
-excerpt: "Page introuvable. Vos pixels sont dans un autre canevas." #
+excerpt: "Page not found. Your pixels are in another canvas." #
 sitemap: false
 ---
 
-Désolé, la page que vous essayez d'atteindre n'existe pas.
+Sorry, but the page you were trying to view does not exist.
 {: .notice--info}
