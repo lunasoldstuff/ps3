@@ -4,6 +4,9 @@ title: "Get Started"
 
 {% include toc title="Table of Contents" %}
 
+WIP
+
+<!--
 ### Required Reading
 
 Different device versions will require different steps to achieve the end goal of Custom Firmware. This page will help you find where to start for your device.
@@ -56,3 +59,4 @@ Your device version can be found under the System Information menu in the System
     </tr>
   </tbody>
 </table>
+-->
