@@ -1,0 +1,12 @@
+---
+title: "Donations" #
+layout: single-no-ads
+---
+
+I don't have a Paypal ~~yet~~, but you can donate to these awesome people for me!
+
+### emiyl
+
+[![Paypal]({{ "/images/paypal_white.png" | absolute_url }}){:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/emiyl0/15){: .align-center}
+{: .text-center}
+{: .notice--info}
