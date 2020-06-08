@@ -1,24 +1,27 @@
 ---
-title: "Начало"
+title: "Get Started"
 ---
 
-{% include toc title="Содержание" %}
+{% include toc title="Table of Contents" %}
 
-### Обязательно к прочтению
+WIP
 
-Разные версии прошивок требуют различных действий для установки кастомной прошивки. Эта страница поможет вам понять, откуда именно следует начать.
+<!--
+### Required Reading
 
-Перед началом, пользователям Windows необходимо включить отображение расширений файлов следуя [Расширения файлов (Windows)](file-extensions-(windows))!
+Different device versions will require different steps to achieve the end goal of Custom Firmware. This page will help you find where to start for your device.
+
+Before starting, Windows users should enable the option to show file extensions using [File Extensions (Windows)](file-extensions-(windows))!
 {: .notice--info}
 
-Выберите подходящую для вашей версии страницу из таблицы ниже. Обратите внимание, что столбцы "С" и "По" обозначают границы диапазона. Это означает, к примеру, что диапазон "с 1.03 по 3.57" включает в себя 1.03, 3.57 и все версии между ними.
+Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 1.03 to 3.57" row includes 1.03, 3.57, and all versions in-between.
 
-Версия прошивки вашей консоли отображается в меню Информация о системе в приложении Настройки.
+Your device version can be found under the System Information menu in the System category of the Settings application.
 
 ![]({{ "/images/screenshots/system-version.png" | absolute_url }})
 {: .notice--info}
 
-### Таблица версий
+### Version Table
 
 <table>
   <colgroup>
@@ -28,8 +31,8 @@ title: "Начало"
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: center; font-weight: bold;">С</th>
-      <th style="text-align: center; font-weight: bold;">По</th>
+      <th style="text-align: center; font-weight: bold;">From</th>
+      <th style="text-align: center; font-weight: bold;">To</th>
       <th style="text-align: center; font-weight: bold;"></th>
     </tr>
   </thead>
@@ -37,22 +40,23 @@ title: "Начало"
     <tr>
       <td style="text-align: center; font-weight: bold;">1.03</td>
       <td style="text-align: center; font-weight: bold;">3.57</td>
-      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(3.60)">Обновление прошивки (3.60)</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(3.60)">Updating Firmware (3.60)</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">3.60</td>
       <td style="text-align: center; font-weight: bold;">3.60</td>
-      <td style="text-align: center; font-weight: bold;"><a href="installing-henkaku">Установка HENkaku</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="installing-henkaku">Installing HENkaku</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">3.61</td>
       <td style="text-align: center; font-weight: bold;">3.63</td>
-      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(ps-vita-3.65)">Обновление прошивки (PS Vita)</a><br>или<br><a href="updating-firmware-(ps-tv-3.65)">Обновление прошивки (PS TV)</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(ps-vita-3.65)">Updating Firmware (PS Vita)</a><br>or<br><a href="updating-firmware-(ps-tv-3.65)">Updating Firmware (PS TV)</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">3.65</td>
       <td style="text-align: center; font-weight: bold;">3.73</td>
-      <td style="text-align: center; font-weight: bold;"><a href="installing-h-encore">Установка h-encore</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="installing-h-encore">Installing h-encore</a></td>
     </tr>
   </tbody>
 </table>
+-->
