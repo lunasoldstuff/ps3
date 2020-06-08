@@ -1,9 +1,9 @@
 ---
-title: "Pagina non trovata" #
+title: "Page Not Found" #
 layout: single-no-ads
-excerpt: "Pagina non trovata. I tuoi pixel sono in un altro canvas." #
+excerpt: "Page not found. Your pixels are in another canvas." #
 sitemap: false
 ---
 
-Mi dispiace, ma la pagina che stai cercando di raggiungere non esiste.
+Sorry, but the page you were trying to view does not exist.
 {: .notice--info}
