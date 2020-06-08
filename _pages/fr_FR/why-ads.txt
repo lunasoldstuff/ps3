@@ -1,15 +1,15 @@
 ---
-title: "Pourquoi des pubs ?" #
+title: "Why Ads?" #
 layout: single-no-ads
 ---
 
-Ce projet est l’aboutissement de centaines et de centaines d’heures de travail constant.
+This project is an extension of hundreds upon hundreds of hours of constant work.
 
-Nous maintenons le guide, gratuitement, et garantissons qu'il soit toujours à jour. A cause de cet effort, nous pensons qu'il est juste pour nous d'essayer de gagner un maigre revenu de notre travail.
+We maintain this guide, for free, and ensure it is always up to date. Because of this effort, we feel that it is fair for us to attempt to gain a meager income from our work.
 
-Ce site ne vous coûte rien, et les publicités affichées ne sont pas intrusives. Mais si cela vous pose quand même problème, vous êtes libre de bloquer ces publicités.
+This site costs you nothing to use, and all that we display are non-intrusive ads. If you still have a problem with this, feel free to block these ads.
 
-Si vous bloquez les publicités, j’aimerais vous rappeler que j’accepte les [dons](dons), mais, de nouveau, vous n’êtes bien évidemment pas obligés d’en faire.
+If you do block ads, we would like to also remind you of the [Donations](donations) page, but once again that is optional too.
 
-Merci,<br>
-Plailect & emiyl
+Thanks,<br>
+stampylongr
