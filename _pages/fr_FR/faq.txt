@@ -2,23 +2,27 @@
 title: "FAQ"
 ---
 
-<a name="faq_latestfw" /> **Q :** *Je suis sur la dernière version du système, est-ce que ma console est hackable ?*
+WIP
+
+<!--
+<a name="faq_latestfw" />**Q:** *I am on the latest system version, is my device hackable?*
 **A:** Yes, 3.73 is hackable at the moment.
 
-<a name="faq_downgrade" />**Q :** *Puis-je downgrader ma Vita ?*
+<a name="faq_downgrade" />**Q:** *Can I downgrade my Vita?*
 **A:** Yes, the tool Modoru can downgrade any system hacked with HENkaku or h-encore to any firmware equal or greater than the firmware the console came with out of the box.
 
-<a name="faq_update" />**Q:** *Est-il sûr de mettre à jour une Vita avec un CFW ?*
-**R :** Non ! Vous devez toujours vérifier que vous avez bloqué les mises à jour comme dit à la fin de la [finalisation de la configuration](finalizing-setup).
+<a name="faq_update" />**Q:** *Is it safe to update a Vita with CFW?*
+**A:** No! You must always ensure that you have blocked updates as specified at the end of [Finalizing Setup](finalizing-setup).
 
-<a name="faq_risky" /> **Q :** *À quel point hacker ma console est-il risqué ?*
-**R :** Les bricks sont *en pratique* impossibles, à moins que vous n'ignoriez les instructions.
+<a name="faq_risky" />**Q:** *How risky is hacking my console?*
+**A:** Bricks are *basically* impossible unless you ignore instructions.
 
-<a name="faq_homebrew" /> **Q :** *Puis-je exécuter des homebrews géniaux et des émulateurs avec cela ?*
-**R :** Oui ! Cela vous permet d'exécuter n'importe quel homebrew sur votre console.
+<a name="faq_homebrew" />**Q:** *Can I run awesome homebrew and emulators with this?*
+**A:** Yes! This enables any custom user-made homebrew to be played on your device.
 
-<a name="faq_support" /> **Q :** *Où dois-je aller pour avoir de l'aide ?*
-**R :** Pour obtenir de l'aide, demandez de l'aide au [Discord Vita Hacking](https://discord.gg/JXEKeg6) (Anglais).
+<a name="faq_support" />**Q:** *Where should I go for support?*
+**A:** For support, ask for help at [Vita Hacking on Discord](https://discord.gg/JXEKeg6).
 
-<a name="faq_nopc" /> **Q :** *Puis-je faire cela sans ordinateur ?*
+<a name="faq_nopc" />**Q:** *Can I do this without a computer?*
 **A:** No, you must have a PC to complete this guide.
+-->
