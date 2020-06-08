@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "nord"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vita Hacks Guide"
+title                    : "PS3 Hacks Guide"
 title_separator          : "-"
-name                     : "Plailect & emiyl"
+name                     : "stampylongr"
 description              : "Full HENkaku Ensō CFW Guide"
-url                      : "https://vita.hacks.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "vita.hacks.guide"
+url                      : "https://stampylongr.github.io/Guide_PS3" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+enforce_ssl              : "stampylongr.github.io/Guide_PS3"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Plailect/Guide_Vita" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "stampylongr/Guide_PS3" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Plailect"
+  name             : "stampylongr"
   avatar           : "bio-photo.png"
-  bio              : "Wii U Hacker"
+  bio              : "Overworked Programmer"
   location         : "Nullsec"
-  email            : "Plailect@gmail.com"
+  email            : "s&#116;a&#109;py&#108;o&#110;g&#114;7&#64;gma&#105;&#108;&#46;com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           : "Plailect"
+  lastfm           : "stampylongr"
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "Plailect"
+  twitter          : "lunaisnotaboy"
   vine             :
   weibo            :
   xing             :
