@@ -2,22 +2,22 @@
 main:
   - 
     title: Accueil
-    url: /
+    url: //stampylongr.github.io/ps3
   - 
     title: FAQ
-    url: faq
+    url: //stampylongr.github.io/ps3/faq
   - 
     title: Dons
-    url: donations
+    url: //stampylongr.github.io/ps3/donations
   - 
     title: Remerciements
-    url: credits
+    url: //stampylongr.github.io/ps3/credits
   - 
     title: Problèmes et Dépannage
-    url: troubleshooting
+    url: //stampylongr.github.io/ps3/troubleshooting
   - 
     title: Adrenaline
-    url: adrenaline
+    url: //stampylongr.github.io/ps3/site-navigation
 top:
   - 
     title: This website uses cookies to display the current guide progress on the sidebar and otherwise enhance the site.
@@ -39,4 +39,4 @@ sidebar_title:
 sidebar_pages:
   - 
     title: Home
-    url: /
+    url: //stampylongr.github.io/ps3
