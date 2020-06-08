@@ -2,22 +2,22 @@
 main:
   - 
     title: 首頁
-    url: /
+    url: //stampylongr.github.io/ps3
   - 
     title: 常見問題 FAQ
-    url: faq
+    url: //stampylongr.github.io/ps3/faq
   - 
     title: 贊助
-    url: donations
+    url: //stampylongr.github.io/ps3/donations
   - 
     title: 製作群
-    url: credits
+    url: //stampylongr.github.io/ps3/credits
   - 
     title: 疑難排解
-    url: troubleshooting
+    url: //stampylongr.github.io/ps3/troubleshooting
   - 
     title: Adrenaline
-    url: adrenaline
+    url: //stampylongr.github.io/ps3/site-navigation
 top:
   - 
     title: 此網站透過 Cookies 來顯示您手冊的操作進度以及提升此網站的使用經驗。
@@ -39,4 +39,4 @@ sidebar_title:
 sidebar_pages:
   - 
     title: 首頁
-    url: /
+    url: //stampylongr.github.io/ps3
