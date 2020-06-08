@@ -1,11 +1,15 @@
 ---
-title: "Благодарности"
+title: "Credits"
 ---
 
-**Отдельное спасибо всем [переводчикам](https://crowdin.com/project/vita-guide) за их работу!**
+WIP
+
+<!--
+
+**Special thanks to all of [the translators](https://crowdin.com/project/vita-guide) for being awesome!**
 {: .notice--primary}
 
-Если мы кого-то забыли, свяжитесь с нами, и мы добавим ваше имя.
+If we forgot you here, contact us and we'll add your name.
 
 {% capture notice-1 %}
 
@@ -22,3 +26,5 @@ title: "Благодарности"
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+-->
