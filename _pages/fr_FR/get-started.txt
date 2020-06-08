@@ -1,24 +1,27 @@
 ---
-title: "Pour Commencer"
+title: "Get Started"
 ---
 
-{% include toc title="Table des matières" %}
+{% include toc title="Table of Contents" %}
 
-### Lecture requise
+WIP
 
-Des consoles de versions différentes requièrent des étapes différentes pour atteindre l'objectif final qu'est le Custom Firmware. Cette page vous aidera à trouver par où commencer en fonction de votre console.
+<!--
+### Required Reading
 
-Avant de commencer, les utilisateurs de Windows devraient permettre d'afficher les extensions de fichiers suivant ce guide [Extensions de fichiers (Windows)](file-extensions-(windows)) !
+Different device versions will require different steps to achieve the end goal of Custom Firmware. This page will help you find where to start for your device.
+
+Before starting, Windows users should enable the option to show file extensions using [File Extensions (Windows)](file-extensions-(windows))!
 {: .notice--info}
 
-Sélectionnez la page appropriée à votre version dans le tableau ci-dessous. Notez que les champs "De" et "À" sont inclusifs. This means that, for example, the "from 1.03 to 3.57" row includes 1.03, 3.57, and all versions in-between.
+Select the appropriate page for your version from the chart below. Note that the "from" and "to" fields are inclusive. This means that, for example, the "from 1.03 to 3.57" row includes 1.03, 3.57, and all versions in-between.
 
-La version de votre console peut être trouvée sous le menu Info système de la console, dans la catégorie Système de l'application Paramètres de la console.
+Your device version can be found under the System Information menu in the System category of the Settings application.
 
 ![]({{ "/images/screenshots/system-version.png" | absolute_url }})
 {: .notice--info}
 
-### Tableau des versions
+### Version Table
 
 <table>
   <colgroup>
@@ -28,8 +31,8 @@ La version de votre console peut être trouvée sous le menu Info système de la
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: center; font-weight: bold;">De</th>
-      <th style="text-align: center; font-weight: bold;">À</th>
+      <th style="text-align: center; font-weight: bold;">From</th>
+      <th style="text-align: center; font-weight: bold;">To</th>
       <th style="text-align: center; font-weight: bold;"></th>
     </tr>
   </thead>
@@ -37,12 +40,12 @@ La version de votre console peut être trouvée sous le menu Info système de la
     <tr>
       <td style="text-align: center; font-weight: bold;">1.03</td>
       <td style="text-align: center; font-weight: bold;">3.57</td>
-      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(3.60)">Mise à jour du système (3.60)</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="updating-firmware-(3.60)">Updating Firmware (3.60)</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">3.60</td>
       <td style="text-align: center; font-weight: bold;">3.60</td>
-      <td style="text-align: center; font-weight: bold;"><a href="Installation-de-HENkaku">Installation de HENkaku</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="installing-henkaku">Installing HENkaku</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">3.61</td>
@@ -52,7 +55,8 @@ La version de votre console peut être trouvée sous le menu Info système de la
     <tr>
       <td style="text-align: center; font-weight: bold;">3.65</td>
       <td style="text-align: center; font-weight: bold;">3.73</td>
-      <td style="text-align: center; font-weight: bold;"><a href="Installation-de-H-encore">Installation de h-encore (xrsa)</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="installing-h-encore">Installing h-encore</a></td>
     </tr>
   </tbody>
 </table>
+-->
