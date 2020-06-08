@@ -1,7 +1,9 @@
 ---
-title: "捐助" #
+title: "Donations" #
 layout: single-no-ads
 ---
+
+I don't have a Paypal ~~yet~~, but you can donate to these awesome people for me!
 
 ### emiyl
 
