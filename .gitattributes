@@ -3,4 +3,4 @@ _assets/js/plugins/* linguist-vendored
 _assets/js/vendor/* linguist-vendored
 assets/fonts/* linguist-vendored
 assets/js/vendor/* linguist-vendored
-_pages/en_US/*.txt linguist-language=YAML
+_pages/en_US/*.txt linguist-language=Markdown
