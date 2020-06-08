@@ -18,20 +18,12 @@ main:
   - 
     title: Adrenaline
     url: adrenaline
-  - 
-    title: StorageMgr
-    url: storagemgr
-  - 
-    title: Навигация по сайту
-    url: site-navigation
 top:
   - 
     title: Этот сайт использует cookies для отображения текущего прогресса в руководстве на боковой панели и для других способов улучшения сайта.
 bottom:
   - 
     title: Для поддержки на английском языке обратитесь за помощью на сервер <a href="https://discord.gg/m7MwpKA">HENkaku в Discord</a>.
-  - 
-    title: Если вам помогло или просто понравилось это руководство, то мы принимаем <a href="donations">пожертвования</a>.
 footer:
   - 
     title: Исходный код
@@ -48,42 +40,3 @@ sidebar_pages:
   - 
     title: Главная
     url: /
-  - 
-    title: Начало
-    url: get-started
-  - 
-    title: Обновление прошивки (3.60)
-    url: updating-firmware-(3.60)
-  - 
-    title: Обновление прошивки (PS TV 3.65 и 3.68)
-    url: updating-firmware-(ps-tv-3.65-and-3.68)
-  - 
-    title: Обновление прошивки (PS Vita 3.65 и 3.68)
-    url: updating-firmware-(ps-vita-3.65-and-3.68)
-  - 
-    title: Установка h-encore
-    url: installing-h-encore
-  - 
-    title: Понижение версии прошивки (3.60)
-    url: downgrading-firmware-(3.60)
-  - 
-    title: Понижение версии прошивки (3.65)
-    url: downgrading-firmware-(3.65)
-  - 
-    title: Установка HENkaku
-    url: installing-henkaku
-  - 
-    title: Настройка h-encore
-    url: configuring-h-encore
-  - 
-    title: Несколько вариантов
-    url: multiple-options
-  - 
-    title: Установка Ensō (3.65)
-    url: installing-enso-(3.65)
-  - 
-    title: Установка Ensō (3.60)
-    url: installing-enso-(3.60)
-  - 
-    title: Завершение установки
-    url: finalizing-setup
