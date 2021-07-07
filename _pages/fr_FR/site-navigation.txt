@@ -1,0 +1,20 @@
+---
+title: "Site Navigation" #
+layout: single-no-ads
+sitemap: false
+---
+
+{% capture notice-2 %}
+**All**
+
++ [Credits](credits)
++ [Donations](donations)
++ [FAQ](faq)
++ [File Extensions (Windows)](file-extensions-(windows))
++ [Get Started](get-started)
++ [Home](/Guide_PS3)
++ [Privacy Policy](privacy-policy)
++ [Troubleshooting](troubleshooting)
++ [Why Ads?](why-ads)
+{% endcapture %}
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
